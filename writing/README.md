@@ -1,6 +1,6 @@
 # Summary
 
-This is a markdown document that showcases some of my teaching files. I used to teach at s programming bootcamp and taught concepts like recursion and dynamic programming with talks like the one included.
+This is a markdown document that showcases some of my teaching files. I used to teach at a programming bootcamp and taught concepts like recursion and dynamic programming with talks like the one included. I included this mainly to illustrate my ability to communicate technical ideas.
 
 # Source
 
