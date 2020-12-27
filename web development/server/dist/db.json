@@ -1,0 +1,103 @@
+{
+    "classRoom": {
+        "name": "History",
+        "id": 101,
+        "teacher": {
+            "id": 1,
+            "firstName": "Jane",
+            "lastName": "Smith"
+        },
+        "students": [
+            {
+                "id": 1,
+                "firstName": "John",
+                "lastName": "Smith",
+                "grade": "80"
+            },
+            {
+                "id": 2,
+                "firstName": "Adam",
+                "lastName": "Smith",
+                "grade": "90"
+            },
+            {
+                "id": 3,
+                "firstName": "Peter",
+                "lastName": "Smith",
+                "grade": "70"
+            },
+            {
+                "id": 4,
+                "firstName": "Allyson",
+                "lastName": "Smith",
+                "grade": "85"
+            },
+            {
+                "id": 5,
+                "firstName": "Ryan",
+                "lastName": "Smith",
+                "grade": "95"
+            },
+            {
+                "id": 6,
+                "firstName": "Jonathan",
+                "lastName": "Smith",
+                "grade": "65"
+            },
+            {
+                "id": 7,
+                "firstName": "Graham",
+                "lastName": "Smith",
+                "grade": "77"
+            },
+            {
+                "id": 8,
+                "firstName": "Jared",
+                "lastName": "Smith",
+                "grade": "100"
+            },
+            {
+                "id": 9,
+                "firstName": "Mary",
+                "lastName": "Smith",
+                "grade": "95"
+            },
+            {
+                "id": 10,
+                "firstName": "Stephen",
+                "lastName": "Smith",
+                "grade": "94"
+            },
+            {
+                "id": 11,
+                "firstName": "Sarah",
+                "lastName": "Smith",
+                "grade": "100"
+            },
+            {
+                "id": 12,
+                "firstName": "River",
+                "lastName": "Smith",
+                "grade": "45"
+            },
+            {
+                "id": 13,
+                "firstName": "Baloo",
+                "lastName": "Smith",
+                "grade": "35"
+            },
+            {
+                "id": 14,
+                "firstName": "Bob",
+                "lastName": "Smith",
+                "grade": "50"
+            },
+            {
+                "id": 15,
+                "firstName": "John",
+                "lastName": "Smith",
+                "grade": "95"
+            }
+        ]
+    }
+}

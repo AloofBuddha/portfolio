@@ -1,0 +1,22 @@
+{
+  "name": "servicemaster-take-home",
+  "version": "1.0.0",
+  "description": "Answers to the take home test from servicemaster",
+  "main": "dist/index.js",
+  "scripts": {
+    "prebuild": "tslint -c tslint.json -p tsconfig.json --fix",
+    "build": "tsc",
+    "prestart": "npm run build",
+    "start": "node ."
+  },
+  "author": "Benjamin Cohen <bac1087@gmail.com>",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "@types/node": "^13.11.1",
+    "tslint": "^6.1.1",
+    "typescript": "^3.8.3"
+  }
+}
