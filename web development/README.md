@@ -1,5 +1,5 @@
 # Summary
-A simple RESTful server and React client written in JavaScript/Node.js. I included this to illustrate the basic skills I use in my profeesion as a web developer. 
+A simple RESTful server and React client written in JavaScript/Node.js. I included this to illustrate the basic skills I use in my profession as a web developer. 
 
 # File strucure
 
