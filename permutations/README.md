@@ -8,7 +8,7 @@ Github Gist (https://gist.github.com/kaizerroll/0ed5173e56d417d0932e#file-permut
 
 # File strucure
 
-- permutations.hs - A single file that defines a main function which simply prints the output of 3 example lists to run the perms function on. It is easiewr to break this down by function
+- permutations.hs - A single file that defines a main function which simply prints the output of 3 example lists to run the perms function on. It is easier to break this down by function
 
 - spread - spread is a function that takes an element and a list, and 'spreads' that element into all possible places in the list, returning a list of lists. So for example:
 ```haskell
