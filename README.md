@@ -7,3 +7,4 @@ Benjamin Cohen
 - Raytracer - excerpts from a Raytracer built in C++, written 2014
 - Vera - excerpts from a game project built in Unity using C#, written 2014
 - web development - a server with a small RESTful API and a client that calls the API and displays the info using React as the rendering engine. Written in JavaScript, 2020
+- writing - a Markdown file explaining recursion and dynamic programming that was used to teach a class at a programming bootcamp - 2018
